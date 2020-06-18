@@ -1,4 +1,4 @@
 just Boggo Sort using Python
 
-here's preview -
+here's a preview -  
 ![Preview](preview.jpg)
